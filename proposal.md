@@ -1,5 +1,9 @@
 #   Project Proposal
 ##  Design Brief
-I am creating a basic exhibition/exploration experience based on the Lord of the Rings book series by J.R.R. Tolkien. It will use basic user input to process movement and item interaction, and will display information about the lore of the books in the form of visual graphic entries and text UI that uses the in built UI toolkit, as well as the TMP library.
+I am creating a basic exhibition/exploration in ***Unity*** experience based on the **Lord of the Rings** book series by J.R.R. Tolkien. It will use basic user input to process movement and item interaction, and will display information about the lore of the books in the form of visual graphic entries and text UI that uses the in built UI toolkit, as well as the TMP library.
 ##  Book Choice
-I have chosen to do my project on the Lord of the Rings series, specifically, 'Return of the King'. This book has been adapted into a movie by Peter Jackson and is a popular fantasy choice for many readers. This series is recognised for defining many aspects of the epic fantasy genre.
+I have chosen to do my project on the Lord of the Rings series, specifically, 'Return of the King'. This book is the third in the series,and contains the final major events that close off the journey of the Fellowship of the Ring.I chose this book as this series is a popular fantasy choice for many readers, recognised for defining many aspects of the epic fantasy genre. Additionally, this book has been adapted into an award-winning movie by Peter Jackson.
+## UX Type
+I am building my UX as a interactive experience/exhibit using the Unity game engine. It will focus on learning the lore and plot of the book/series through small snippets of text that can be found through a linear path within the exhibition. This will help engage users and allow for a graphically-assisted program.
+## Target Audience
+The intended audience for this experience can range from younger ages (e.g. 7-12) to older ages who have an interest in the fantasy genre and/or Lord of the Rings series, and may want to learn through a simplified experience for efficiency or understanding. The prospect of a simple interactive experience (basic movement with WASD and arrow keys) will improve accessibility to different parties/users.
