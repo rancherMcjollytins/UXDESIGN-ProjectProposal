@@ -7,3 +7,7 @@ I have chosen to do my project on the Lord of the Rings series, specifically, 'R
 I am building my UX as a interactive experience/exhibit using the Unity game engine. It will focus on learning the lore and plot of the book/series through small snippets of text that can be found through a linear path within the exhibition. This will help engage users and allow for a graphically-assisted program.
 ## Target Audience
 The intended audience for this experience can range from younger ages (e.g. 7-12) to older ages who have an interest in the fantasy genre and/or Lord of the Rings series, and may want to learn through a simplified experience for efficiency or understanding. The prospect of a simple interactive experience (basic movement with WASD and arrow keys) will improve accessibility to different parties/users.
+##  Tools to Use
+The tools I will ikely use for this project are:
+-   Unity (Main Engine)
+-   Github (Commit History/Version Control)
